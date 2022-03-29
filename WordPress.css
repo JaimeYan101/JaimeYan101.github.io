@@ -45,10 +45,6 @@ div {
     display: flex;
 }
 
-.opcion {
-    width: 100px;
-    height: 30px;
-}
 
 
 .selector {
@@ -106,6 +102,11 @@ a:hover {
     float: left;
     margin: 20px;
     margin-left: 40px;
+}
+
+.opcion {
+    width: 200px;
+    height: 30px;
 }
 @media only screen and (max-width: 420px) {
     body {
